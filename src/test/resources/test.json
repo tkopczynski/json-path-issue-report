@@ -1,0 +1,14 @@
+{
+  "wrapper": {
+    "data": [
+      {
+        "id": 1,
+        "value": "val1"
+      },
+      {
+        "id": 2,
+        "value": "val2"
+      }
+    ]
+  }
+}
